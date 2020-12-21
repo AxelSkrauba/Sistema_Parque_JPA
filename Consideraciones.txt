@@ -1,0 +1,15 @@
+Dentro del paquete de "Logica" existe un Main.java para la creación de un usuario por defecto para poder ingresar al sistema.
+Las credenciales son:
+Usuario: "admin"
+Contraseña: "admin"
+
+La clase "Horario", que hace referencia al horario de funcionamiento de un determinado "Juego", no controla el intervalo ingresado. Se considera que el parque trabaja de corrido. Ej: de 23 a 5 hs significaría un horario nocturno/madrugada, mientras que de 5 a 23 hs significaría un horaraio tarde/noche. El intervalo abarca desde hora de "Inicio" hasta la hora de "Fin", ignorando cual de ellos es menor, ya las horas son cíclicas. Ingresar dos horas iguales, equivale a un juego que funciona las 24 hs.
+
+En caso de ingresar a una dirección sin autorización (sin sesión iniciada), se redirige automáticamente al login.
+
+La clase Entrada tiene las funciones de Alta y Visualización por el momento. ABML Incompleto.
+
+En el video se mencionan algunas cuestiones extra. Saludos.
+
+
+ENLACE VIDEO: https://youtu.be/Gzr9BHn7zrg

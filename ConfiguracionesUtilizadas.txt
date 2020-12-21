@@ -1,0 +1,8 @@
+BASE DE DATOS mySQL 5.7.31
+Nombre: "sistema_parque"
+Usuario: "admin"
+Clave: "admin"
+
+
+
+NOTA: los campos de interés se encuentran entre comillas dobles ("").
